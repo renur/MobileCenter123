@@ -1,0 +1,5 @@
+/Users/Tavant/Documents/Projects/MobileCenterTryOut/MobileCenterTryOut/obj/Debug/MobileCenterTryOut.csprojResolveAssemblyReference.cache
+/Users/Tavant/Documents/Projects/MobileCenterTryOut/MobileCenterTryOut/obj/Debug/MobileCenterTryOut.csproj.CoreCompileInputs.cache
+/Users/Tavant/Documents/Projects/MobileCenterTryOut/MobileCenterTryOut/obj/Debug/MobileCenterTryOut.App.xaml.g.cs
+/Users/Tavant/Documents/Projects/MobileCenterTryOut/MobileCenterTryOut/obj/Debug/MobileCenterTryOut.MobileCenterTryOutPage.xaml.g.cs
+/Users/Tavant/Documents/Projects/MobileCenterTryOut/MobileCenterTryOut/obj/Debug/MobileCenterTryOut.DashBoardPage.xaml.g.cs

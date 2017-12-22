@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9872F8C4-0C24-4041-A956-6B0321CFB5A3}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rob/dev/IoC/TinyIocDemo/TinyIoCDemo.iOS/App.cs" line="5" column="1" />
+      <Breakpoint file="/Users/Tavant/Documents/Projects/OAuthAuthentication/OAuthAuthentication/DashBoardPage.xaml.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MobileCenterTryOut.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DCA43834-CE72-45AC-A7B2-B40C952A3766" />
+</Properties>
